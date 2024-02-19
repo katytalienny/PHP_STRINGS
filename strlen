@@ -1,0 +1,10 @@
+<?php 
+
+   $txt = "Curso em vídeo"; 
+   $tamanho = srlen($txt); 
+
+   ?> 
+
+
+
+   
