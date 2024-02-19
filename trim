@@ -1,0 +1,5 @@
+<?php 
+]$nome= "xxxjoséxdaxsilvaxxx";
+echo(strlen($nome)); 
+$novo = trim($nome); 
+?> 
