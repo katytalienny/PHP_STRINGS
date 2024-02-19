@@ -1,0 +1,7 @@
+<?PHP
+  $prod = "Leite"; 
+  $preco = 4.5; 
+  Printf("O % está custando R$ %.2f', $prod, $preco); 
+?> 
+
+o leite está custando R$ 4.5 
