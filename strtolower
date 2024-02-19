@@ -1,0 +1,4 @@
+</php
+  $nome = "gustavo Guanabara"; 
+  print("seu nomeé".srtolower($nome)); 
+?> 
