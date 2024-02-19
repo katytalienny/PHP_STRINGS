@@ -1,0 +1,5 @@
+<?php
+   $txt= "Este é um exemploo= de string gigante que...; 
+   $res= wordwrap ($txt,"<br>\n", false); 
+   echo($res); 
+?> 
