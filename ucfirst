@@ -1,0 +1,7 @@
+</php
+  $nome = "gustavo Guanabara"; 
+  $nome2 =ucfirst(strlower($nome)); 
+  echo "Seu nome e $nome2";
+
+print("seu nomeé".srtolower($nome)); 
+?> 
