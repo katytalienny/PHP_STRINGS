@@ -1,0 +1,4 @@
+<?php 
+  $nome = "Maria"; 
+  $vetor = str_plit ($nome); // 
+  ?> 
