@@ -1,0 +1,4 @@
+<?php 
+  $nome= "gustavo guanabara": 
+  print("seu nome é", ucwords($nome));
+?> 
