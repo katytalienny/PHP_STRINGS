@@ -1,0 +1,4 @@
+<?php 
+  $frase = "Estou apredendo PHP";
+  $pos = strpos($frase,"PHP"); 
+  ?> 
