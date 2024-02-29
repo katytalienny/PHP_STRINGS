@@ -1,0 +1,4 @@
+<?php 
+  $nome = "gustavo guanabARA"; 
+  Print(strrev($nome)); 
+?>
