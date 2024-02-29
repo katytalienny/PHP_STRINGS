@@ -1,0 +1,6 @@
+<?php
+$nome="guanabara";
+$novo= str-pad($nome, 30, "",STR_PAD_RIGHT); 
+Print("meu professor $novo é lindo!");
+?>
+
