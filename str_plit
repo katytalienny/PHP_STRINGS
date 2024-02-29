@@ -1,4 +1,4 @@
 <?php 
   $nome = "Maria"; 
-  $vetor = str_plit ($nome); // 
+  $vetor = str_plit ($nome); // mostrar cada letra separada por um vetor
   ?> 
