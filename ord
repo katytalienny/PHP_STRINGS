@@ -1,0 +1,4 @@
+<?php
+   $letra = "c"; 
+   $cod = ord($letra); 
+   print ("A letra $letra tem códigos") 
