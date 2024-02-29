@@ -1,0 +1,4 @@
+<?php
+  $frase = "gosto de estudar"
+  $novafrase = str_replace("matematica", "PHP", $frase); 
+  echo "$novafrase"; 
